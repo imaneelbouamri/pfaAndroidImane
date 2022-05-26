@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "89862410600",
+    "project_id": "mydetector-f4073",
+    "storage_bucket": "mydetector-f4073.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89862410600:android:be0727fa10e3df92ba86dd",
+        "android_client_info": {
+          "package_name": "com.example.mydetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89862410600-jcobrb5mb3usnrmc2hfrbou73928t9c7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAInfqsO0I0f7szQIfDmE0obcTfM6CWp5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89862410600-jcobrb5mb3usnrmc2hfrbou73928t9c7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
